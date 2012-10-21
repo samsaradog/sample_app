@@ -15,4 +15,4 @@
 /tmp
 .DS_Store
 .rspec-tm
-bundler_stubs/
+bundle_stubs/
